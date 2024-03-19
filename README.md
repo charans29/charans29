@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div id="header" align="center">
+<div id="header" align="right">
   <img ssrc="https://assets.pinterest.com/ext/embed.html?id=194640015138203000" height="714" width="345" frameborder="0" scrolling="no" />
 </div>
 
