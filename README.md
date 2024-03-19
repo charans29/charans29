@@ -4,7 +4,7 @@
   <img ssrc="Assets/-2.jpg height="714" width="345" frameborder="0" scrolling="no" />
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
