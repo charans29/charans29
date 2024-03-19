@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img> <iframe src="https://assets.pinterest.com/ext/embed.html?id=705657835389861870" height="295" width="345" frameborder="0" scrolling="no" >    </iframe></img>
+  <img src="https://assets.pinterest.com/ext/embed.html?id=705657835389861870" height="295" width="345" frameborder="0" scrolling="no" />
 </div>
 
 <!--
