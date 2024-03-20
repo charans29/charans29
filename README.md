@@ -1,14 +1,9 @@
 ### Hi there 👋
 
-<div id="header" align="right">
-  <a href="https://www.saicharanmodugula.dev">
-  <img align="right" title="@charans_twt" width="25px" src="./Assets/icons8-website.svg" />
-</div>
 
 <div id="badges" align="center">
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
+  <a href="https://www.saicharanmodugula.dev">
+  <img align="right" title="@charans_twt" width="50px" src="./Assets/icons8-website.svg" />
 </div>
 <br><br>
 <p align="center">
