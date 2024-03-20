@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<div id="badges" align="center">
+<div id="badges" >
   <a href="https://www.saicharanmodugula.dev">
   <img style="margin-left: -50px; width: 30px;" title="@charans_twt" src="./Assets/icons8-website.png" />
 </div>
