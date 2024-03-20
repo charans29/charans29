@@ -1,5 +1,5 @@
-<div align='center' height="50%" width="auto">Hi!</div>
-<p style="color: red;">This is a paragraph of red text.</p>
+<div align='center'><p height="50%" width="auto" Hi! / ></div>
+
 <img width="30px" title="website" src="./Assets/MagicCube.gif" />
 <img width="30px" title="website" src="./Assets/Unknown.gif" />
 
