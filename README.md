@@ -1,4 +1,4 @@
-<h1 align='center' text-color:'#57F287' fontWeight:'bold'>Hi!</h1>
+<h1 align='center' text-color='#57F287' fontWeight:'bold'>Hi!</h1>
 <img width="30px" title="website" src="./Assets/MagicCube.gif" />
 <img width="30px" title="website" src="./Assets/Unknown.gif" />
 
