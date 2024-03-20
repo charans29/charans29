@@ -21,6 +21,10 @@
 <a href="https://www.linkedin.com/in/saicharanmodugula">
   <img align="left" title="sai charan modugula" width="25px" src="./Assets/icons8-linkedin.svg" />
 </a>
+<p align='center'>
+<a href="https://wakatime.com/@018d7fcd-3625-4d05-9e6b-2a3cebe45299"><img src="https://wakatime.com/badge/user/018d7fcd-3625-4d05-9e6b-2a3cebe45299.svg"/></a>
+<a href="https://visitorbadge.io/status?path=charans29%2Fcharans29"><img src="https://api.visitorbadge.io/api/visitors?path=charans29%2Fcharans29&label=🌍 %20 Total%20Viewrs&countColor=%23263759&style=flat&labelStyle=none" /></a>
+</p>
 <a href="https://twitter.com/charans_twt">
   <img align="right" title="@charans_twt" width="25px" src="./Assets/icons8-twitterx.svg" />
 </a>
