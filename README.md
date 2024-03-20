@@ -22,7 +22,7 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=charans29&theme=Gradient&hide_border=true&background=AA98A9">
   <br>
   <br>
-  <img src ="https://leetcard.jacoblin.cool/mscharans?theme=wtf&font=Ubuntu&ext=contest" />
+  <img src ="https://leetcard.jacoblin.cool/mscharans?theme=dark&font=Ubuntu&ext=contest" />
   <br>
   <br>
   <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
