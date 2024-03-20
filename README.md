@@ -3,7 +3,7 @@
 
 <div>
   <a href="https://www.saicharanmodugula.dev">
-    <img style="width: 30px;margin-left: 50px;" title="@charans_twt" src="./Assets/icons8-website.png" />
+    <img style="width: 30px;margin-left: 500px;" title="@charans_twt" src="./Assets/icons8-website.png" />
   </a>
 </div>
 <p align="center">
