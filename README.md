@@ -1,4 +1,5 @@
 <h1 align='center' style='color:#57F287; font-weight:bold;'>Hi!</h1>
+<p style="color: red;">This is a paragraph of red text.</p>
 <img width="30px" title="website" src="./Assets/MagicCube.gif" />
 <img width="30px" title="website" src="./Assets/Unknown.gif" />
 
