@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<span style="display: inline-block; width: 250px;"></span>
+<span style="display: inline-block; width: 500px;"></span>
 <a href="https://www.saicharanmodugula.dev">
   <img width="30px" title="@charans_twt" src="./Assets/icons8-website.png" />
 </a>
