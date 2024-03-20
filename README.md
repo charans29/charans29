@@ -1,6 +1,6 @@
 <h3 align="center">Hi!</h3>
 
-<img width="100px" title="website" src="./Assets/MagicCube.gif" />
+<img width="100px" title="website" src="./Assets/Magic.gif" />
 <img width="30px" title="website" src="./Assets/Unknown.gif" />
 
 
