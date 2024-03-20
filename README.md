@@ -3,7 +3,7 @@
 
 <div id="badges" align="center">
   <a href="https://www.saicharanmodugula.dev">
-  <img left="10" title="@charans_twt" width="100px" src="./Assets/icons8-website.png" />
+  <img left="20" title="@charans_twt" width="100px" src="./Assets/icons8-website.png" />
 </div>
 <br><br>
 <p align="center">
