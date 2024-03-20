@@ -3,7 +3,7 @@
 
 <div id="badges" >
   <a href="https://www.saicharanmodugula.dev">
-  <img style="margin-left: -100000px; width: 30px;" title="@charans_twt" src="./Assets/icons8-website.png" />
+  <img style="margin-left: 1000px; width: 30px;" title="@charans_twt" src="./Assets/icons8-website.png" />
 </div>
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=charans29&show_icons=true&count_private=true&theme=Gradient&hide_border=true&hide=issues,contribs&bg_color=00000000">
