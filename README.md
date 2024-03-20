@@ -1,4 +1,4 @@
-<div align='center'><p height="50%" width="auto" Hi! / ></div>
+<div align='center'><p height="50%" width="auto">Hi!</p></div>
 
 <img width="30px" title="website" src="./Assets/MagicCube.gif" />
 <img width="30px" title="website" src="./Assets/Unknown.gif" />
