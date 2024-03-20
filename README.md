@@ -30,7 +30,9 @@
   <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 
-<a  href="https://icons8.com/icon/YfCbGWCWcuar/twitterx">TwitterX</a> icon by <a href="https://icons8.com">Icons8</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="@charans_twt" width="21px" src="https://raw.githubusercontent.com/charans29/charans29/main/Assets/icons8-twitterx.svg" />
+</a>
 
 <!--
 **charans29/charans29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
