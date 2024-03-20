@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 <div id="header" align="right">
-  <img ssrc="Assets/-2.jpg height="714" width="345" frameborder="0" scrolling="no" />
+  <a href="https://www.saicharanmodugula.dev">
+  <img align="right" title="@charans_twt" width="25px" src="./Assets/icons8-website.svg" />
 </div>
 
 <div id="badges" align="center">
