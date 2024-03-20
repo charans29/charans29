@@ -1,4 +1,4 @@
-<div align='center'><p height="50%" width="auto">Hi!</p></div>
+### Hi!
 
 <img width="30px" title="website" src="./Assets/MagicCube.gif" />
 <img width="30px" title="website" src="./Assets/Unknown.gif" />
