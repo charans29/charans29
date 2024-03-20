@@ -20,7 +20,7 @@
 <br><br>
 <p align='center'>
 <a href="https://wakatime.com/@018e5add-6805-47b9-8082-374b0990351d"><img src="https://wakatime.com/badge/user/018e5add-6805-47b9-8082-374b0990351d.svg"/></a>
-<a href="https://visitorbadge.io/status?path=charans29%2Fcharans29"><img src="https://api.visitorbadge.io/api/visitors?path=charans29%2Fcharans29&label=🌍 %10Total%20Viewrs&countColor=%23263759&style=flat&labelStyle=none" /></a>
+<a href="https://visitorbadge.io/status?path=charans29%2Fcharans29"><img src="https://api.visitorbadge.io/api/visitors?path=charans29%2Fcharans29&label=🌍 %20Total%20Viewrs&countColor=%23263759&style=flat&labelStyle=none" /></a>
 </p>
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
