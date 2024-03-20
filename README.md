@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<div style="align: left; margin-left: 50px;">
+<div style="align: left">
   <a href="https://www.saicharanmodugula.dev">
-    <img style="width: 30px;" title="@charans_twt" src="./Assets/icons8-website.png" />
+    <img style="width: 30px;margin-left: 50px;" title="@charans_twt" src="./Assets/icons8-website.png" />
   </a>
 </div>
 <p align="center">
