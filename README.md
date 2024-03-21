@@ -18,8 +18,6 @@
   <a href="https://leetcode.com/mscharans/" target="_blank">
     <img title="charans29's LeetCode Stats" src ="https://leetcard.jacoblin.cool/mscharans?theme=dark&font=Ubuntu&ext=contest" />
   </a>
-  <br><br>
-  <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </p>
 <br><br>
 <p align='center'>
@@ -31,7 +29,9 @@
 <br><br>
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charans29&row=2&column=4&theme=darkhub"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?          username=charans29&row=2&column=4&theme=darkhub"/></a>
+  <br><br>
+  <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50"   width="210" alt="aveek.saha" /></a>
 </div>
 
 
