@@ -1,7 +1,8 @@
-<h3 align="center">Hi!</h3>
-<img width="30px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRhdDY3ejluMHlxeTI1NmtnZDQ4cjdkNGR3b2lidHd3czUyMDdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/InVT1qs3XuETCojjqx/giphy.gif">
+<h3 align="center">
+  <img width="50px"     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRhdDY3ejluMHlxeTI1NmtnZDQ4cjdkNGR3b2lidHd3czUyMDdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/InVT1qs3XuETCojjqx/giphy.gif">
+</h3>
 <p align="center">
-  <img width="40px" title="website" src="./Assets/Magic.gif" /> Exploring Industry Practices
+  Exploring Industry Practices
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
