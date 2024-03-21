@@ -1,5 +1,5 @@
 <h3 align="center">Hi!</h3>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRhdDY3ejluMHlxeTI1NmtnZDQ4cjdkNGR3b2lidHd3czUyMDdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/InVT1qs3XuETCojjqx/giphy.gif">
+<img width="30px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRhdDY3ejluMHlxeTI1NmtnZDQ4cjdkNGR3b2lidHd3czUyMDdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/InVT1qs3XuETCojjqx/giphy.gif">
 <p align="center">
   <img width="40px" title="website" src="./Assets/Magic.gif" /> Exploring Industry Practices
 </p>
