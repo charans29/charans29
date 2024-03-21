@@ -30,7 +30,12 @@
 
 <br><br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=charans29&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charans29&row=2&column=4&theme=darkhub"/></a>
+</div>
+
+
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=charans29&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
 
