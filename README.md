@@ -27,6 +27,7 @@
 <a href="https://visitorbadge.io/status?path=charans29%2Fcharans29"><img src="https://api.visitorbadge.io/api/visitors?path=charans29%2Fcharans29&label=🌍 %20Total%20Viewers&countColor=%23263759&style=flat&labelStyle=none" /></a>
 </p>
 &nbsp;
+
 ![](https://komarev.com/ghpvc/?username=charans29&color=green)
 <br><br>
 
