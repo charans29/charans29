@@ -26,6 +26,7 @@
 <br><br>
 <div align='center'>
 [![trophy](https://github-profile-trophy.vercel.app/?username=charans29&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
   <img align="left" title="sai charan modugula" width="25px" src="./Assets/icons8-linkedin.svg" />
