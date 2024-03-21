@@ -24,9 +24,9 @@
 <a href="https://visitorbadge.io/status?path=charans29%2Fcharans29"><img src="https://api.visitorbadge.io/api/visitors?path=charans29%2Fcharans29&label=🌍 %20Total%20Viewers&countColor=%23263759&style=flat&labelStyle=none" /></a>
 </p>
 <br><br>
-<div align='center'>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=charans29&theme=darkhub&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
+
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
   <img align="left" title="sai charan modugula" width="25px" src="./Assets/icons8-linkedin.svg" />
