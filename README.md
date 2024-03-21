@@ -4,12 +4,10 @@
 <p align="center">
   Exploring Industry Practices
 </p>
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.saicharanmodugula.dev">
   <img width="30px" title="website" src="./Assets/icons8-website.png" />
 </a>
-
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=charans29&show_icons=true&count_private=true&theme=Gradient&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=charans29&layout=compact&hide_border=true&theme=Gradient&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
@@ -25,23 +23,12 @@
 <a href="https://github.com/antonkomarev/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=charans29&color=333333" />
 </a>
 </p>
-
 <br><br>
-
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charans29&row=2&column=4&theme=darkhub"/></a>
-</div>
-
 <br><br>
-<div align="center">
   <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
 </div>
-
-
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=charans29&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)-->
-
-
-
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
   <img align="left" title="sai charan modugula" width="25px" src="./Assets/icons8-linkedin.svg" />
