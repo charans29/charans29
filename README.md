@@ -27,7 +27,7 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charans29&row=2&column=4&theme=darkhub"/></a>
 <br><br>
-  <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="./Assets/buy.svg" height="50" width="210" title="coffee with charan" /></a>
+  <a href="https://www.buymeacoffee.com/charans"> <img align="center" src="./Assets/buy.svg" height="50" width="auto" title="coffee with charan" /></a>
 </div>
 <br><br>
 <a href="https://www.linkedin.com/in/saicharanmodugula">
