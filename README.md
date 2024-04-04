@@ -1,6 +1,6 @@
 <h3 align="center">
   <!-- img width="50px"     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRhdDY3ejluMHlxeTI1NmtnZDQ4cjdkNGR3b2lidHd3czUyMDdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/InVT1qs3XuETCojjqx/giphy.gif"-->
-  <img width="1000px" title="website" src="./Assets/crazy.gif" />
+  <img width="250px" title="website" src="./Assets/crazy.gif" />
 </h3>
 <p align="center">
   Exploring Industrial Practices
