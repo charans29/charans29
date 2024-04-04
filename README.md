@@ -1,4 +1,4 @@
-<h3 align="center">
+<h3 align="center" style="width: 200px;">
   <!-- img width="50px"     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRhdDY3ejluMHlxeTI1NmtnZDQ4cjdkNGR3b2lidHd3czUyMDdwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/InVT1qs3XuETCojjqx/giphy.gif"-->
   <img width="100px" title="website" src="./Assets/crazy.gif" />
 </h3>
